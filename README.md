@@ -6,7 +6,6 @@ This repository contains a simple customer support AI built using Streamlit and 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#livedemo)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,12 +43,6 @@ Ensure you have an API key for Google Gemini and add it to your `.env` file as G
    ```bash
    streamlit run main.py
    ```
-
-## Live Demo
-
-You can view a live demo of the Thoughtful AI Customer Support Agent here:
-
-[Live Demo Link](https://your-live-demo-url.com)
 
 ## Features
 
