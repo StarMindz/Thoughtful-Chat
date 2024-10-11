@@ -6,7 +6,7 @@ This repository contains a simple customer support AI built using Streamlit and 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#live demo)
+- [Live Demo](#livedemo)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
